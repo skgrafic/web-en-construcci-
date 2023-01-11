@@ -14,6 +14,7 @@
         </v-col>
         <v-col cols="12" md="4" align="center" class="imatge">
           <h2>Estem viatjant per tot el món preparant la nostra web perquè tinguis la millor experiència en el teu pròxim viatge.</h2>
+          <h3>Bon viatge</h3>
         </v-col>
         <v-col cols="12" md="4"></v-col>
         </v-row>
